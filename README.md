@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 <!-- tokyonight for the most part -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maximus12793&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maximus12793&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
