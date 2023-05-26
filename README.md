@@ -56,6 +56,16 @@ Here are some ideas to get you started:
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white)
  -->
  
+<table width="100" align='center'>
+<tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+ </td>
+</tr>
+</table>
 
 <!-- tokyonight for the most part -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=True)
