@@ -3,6 +3,18 @@
 <h2 align='center'> <i>Hi there 👋</h2>  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=True"  width="400">
+<p align="left">
+ ## 🛠️ Tech Stack
+
+Here's a list of technologies I'm currently working with:
+
+- 🤖 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-Learn
+- 🧠 Deep Learning: GPT-4, BERT, OpenAI's CLIP, DALL-E
+- 🕹️ Reinforcement Learning: OpenAI's Gym, Stable Baselines, RLLib
+- 📊 Data Visualization: Matplotlib, Seaborn, Plotly
+- 🐍 Languages: Python, R, Julia
+- ☁️ Cloud: Google Cloud, AWS, Azure
+</p>
 <!--
 **maximus12793/maximus12793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
