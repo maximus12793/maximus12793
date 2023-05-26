@@ -1,20 +1,44 @@
 <!-- ### Hi there 👋 -->
 
 <h2 align='center'> <i>Hi there 👋</h2>  
-
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=True"  width="400">
 <p align="left">
  ## 🛠️ Tech Stack
 
 Here's a list of technologies I'm currently working with:
 
-- 🤖 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-Learn
+- 🤖 Machine Learning: PyTorch, Jax, TensorFlow, Keras, Scikit-Learn
 - 🧠 Deep Learning: GPT-4, BERT, OpenAI's CLIP, DALL-E
 - 🕹️ Reinforcement Learning: OpenAI's Gym, Stable Baselines, RLLib
 - 📊 Data Visualization: Matplotlib, Seaborn, Plotly
-- 🐍 Languages: Python, R, Julia
+- 🐍 Languages: Python, R, Julia, C++
 - ☁️ Cloud: Google Cloud, AWS, Azure
-</p>
+</p> -->
+ 
+ 
+ <table>
+  <tr>
+    <td>
+      <h2>🛠️ Tech Stack</h2>
+       Here's a list of technologies I'm currently working with:
+
+       - 🤖 Machine Learning: PyTorch, Jax, TensorFlow, Keras, Scikit-Learn
+       - 🧠 Deep Learning: GPT-4, BERT, OpenAI's CLIP, DALL-E
+       - 🕹️ Reinforcement Learning: OpenAI's Gym, Stable Baselines, RLLib
+       - 📊 Data Visualization: Matplotlib, Seaborn, Plotly
+       - 🐍 Languages: Python, R, Julia, C++
+       - ☁️ Cloud: Google Cloud, AWS, Azure
+    </td>
+    <td>
+      <h2>📈 Statistics</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=True"  width="400">
+    </td>
+  </tr>
+</table>
+
+ 
+ 
 <!--
 **maximus12793/maximus12793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
