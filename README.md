@@ -21,14 +21,14 @@ Here's a list of technologies I'm currently working with:
   <tr>
     <td>
       <h2>🛠️ Tech Stack</h2>
-       Here's a list of technologies I'm currently working with:
+     Here's a list of technologies I'm currently working with:
 
-       - 🤖 Machine Learning: PyTorch, Jax, TensorFlow, Keras, Scikit-Learn
-       - 🧠 Deep Learning: GPT-4, BERT, OpenAI's CLIP, DALL-E
-       - 🕹️ Reinforcement Learning: OpenAI's Gym, Stable Baselines, RLLib
-       - 📊 Data Visualization: Matplotlib, Seaborn, Plotly
-       - 🐍 Languages: Python, R, Julia, C++
-       - ☁️ Cloud: Google Cloud, AWS, Azure
+     - 🤖 Machine Learning: PyTorch, Jax, TensorFlow, Keras, Scikit-Learn
+     - 🧠 Deep Learning: GPT-4, BERT, OpenAI's CLIP, DALL-E
+     - 🕹️ Reinforcement Learning: OpenAI's Gym, Stable Baselines, RLLib
+     - 📊 Data Visualization: Matplotlib, Seaborn, Plotly
+     - 🐍 Languages: Python, R, Julia, C++
+     - ☁️ Cloud: Google Cloud, AWS, Azure
     </td>
     <td>
       <h2>📈 Statistics</h2>
