@@ -29,7 +29,7 @@
     <td align="center">
       <h3>📈 Statistics</h3>
      <hr>
-      <img src="https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=True">
+      <img src="https://github-readme-stats.vercel.app/api?username=maximus12793&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
      <h3>📚 Currently learning</h3>
      <hr>
      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="60" style="border-radius: 15%;">
