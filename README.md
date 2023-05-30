@@ -33,6 +33,8 @@
      <h3>📚 Currently learning</h3>
      <hr>
      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="60" style="border-radius: 15%;">
+     <br>
+     🦀 via. <a href="https://doc.rust-lang.org/book/">The Rust Book</a> and <a href="https://rustlings.cool/">Rustlings 🦀</a>
     </td>
   </tr>
 </table>
