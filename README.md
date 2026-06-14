@@ -1,4 +1,8 @@
-<h2 align='center'> <i>Hi there 👋</i> </h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+autonomous+agents.;Architecting+fintech+systems.;Scaling+distributed+infrastructure." alt="Typing SVG" />
+  </a>
+</p>
 
 <table>
 <tr>
